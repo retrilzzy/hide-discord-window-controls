@@ -1,0 +1,23 @@
+/**
+ * @name Hide Window Controls
+ * @description Hides minimize, maximize and close buttons.
+* @website https://github.com/retrilzzy/hide-discord-window-controls
+ * @author retrilzzy
+ * @authorLink https://rzx.ovh
+*/
+
+#app-mount
+  > div.appAsidePanelWrapper_a3002d
+  > div
+  > div.app_a3002d
+  > div
+  > div.layers__960e4.layers__160d8
+  > div
+  > div
+  > div
+  > div[class*="bar_c38106"]
+  > div.trailing_c38106
+  > div.winButtons_c38106.winButtonsWithDivider_c38106,
+#app-mount > div.bar_c38106.systemBar_c38106.fixed_c38106.show_c38106 > div {
+  display: none;
+}
