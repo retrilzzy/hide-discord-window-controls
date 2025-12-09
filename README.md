@@ -2,6 +2,8 @@
 
 A simple CSS style that hides the minimize, maximize, and close buttons in the Discord client.
 
+![Screenshot](https://share.rzx.ovh/raw/nuy6HWQH.png)
+
 ## Installation
 
 These instructions are for **[Vencord](https://github.com/Vendicated/Vencord)** and **[Equicord](https://github.com/Equicord/Equicord)** clients.
